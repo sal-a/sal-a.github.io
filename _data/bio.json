@@ -1,0 +1,33 @@
+{
+  "basics": {
+    "name": "John Bonzo Bonham",
+    "label": "Acoustic Percussion Genius",
+    "picture": "https://sal-a.github.io/img/John-Bonham-Press-Crop-1480x832.jpg",
+    "email": "sa8@hawaii.edu",
+    "phone": "808-867-5309",
+    "website": "https://sal-a.github.io",
+    "summary": "I am the best drummer that has ever lived, although I passed away in 1980, my sick beats and rythyms are beyond measure."
+  },
+  "interests": [
+    {
+      "name": "Drums"
+    },
+    {
+      "name": "Drum sticks"
+    },
+    {
+      "name": "Cymbals"
+    },
+    {
+      "name": "Bongos"
+    },
+    {
+      "name": "Booze"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Rhythym"
+    }
+  ]
+}
